@@ -66,7 +66,7 @@ header > p{
    padding-left: 10px;
    margin: auto;
    text-shadow: 2px 3px 1px rgba(0, 0, 0, 0.493);
-   margin-bottom: 30px;
+   padding-bottom: 50px;
    
    
 
@@ -203,4 +203,5 @@ a:hover{
     text-decoration: underline;
     transition: 0.5s;
     color: var(--cor2);
+
 }
